@@ -8,12 +8,15 @@ Hyun-jun Choi is a Ph.D. candidate at the Graduate School of Data Science, Seoul
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Online Learning:** contextual bandits, combinatorial bandits, nonstationary bandits
+- **Recommendation and Optimization:** online learning to rank, choice modeling, assortment optimization
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2026]** 2 papers accepted to NeurIPS 2026.
+- **[Aug. 2026]** Received the Best Paper Award at 2026 Korean Artificial Intelligence Association
+- **[May. 2026]** 1 paper accepted to ICML 2026.
+- **[Sep. 2025]** 1 paper accepted to NeurIPS 2025.
+- **[Sep. 2025]** Received the National Research Foundation of Korea President’s Award at the K-Data Science Conference.
+- **[Nov. 2023]** Received the National Minister of Science and ICT Award at the K-Data Science Conference.
+- **[Sep. 2023]** 1 paper accepted to NeurIPS 2023.
