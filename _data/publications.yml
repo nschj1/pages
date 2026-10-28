@@ -1,7 +1,7 @@
 main:
 
   - title: "Topic-aware Contextual Cascading Bandits"
-    authors: <strong>Hyun-jun Choi*<strong>*, Taehyun Hwang*, Min-hwan Oh
+    authors: <strong>Hyun-jun Choi</strong>*, Taehyun Hwang*, Min-hwan Oh
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
