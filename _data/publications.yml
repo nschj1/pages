@@ -1,22 +1,58 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Topic-aware Contextual Cascading Bandits"
+    authors: <strong>Hyun-jun Choi*<strong>*, Taehyun Hwang*, Min-hwan Oh
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Block Optimism for Nonstationary Bandits with Latent Linear Dynamics"
+    authors: Taehyun Hwang*, <strong>Hyunjun Choi</strong>*, Heesang Ann*, Min-hwan Oh
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # image: ./assets/img/teaser_example.png
+    # notes: Oral Presentation
+    
+- title: "Generalized Linear Bandits with Memory"
+    authors: Heesang Ann*, <strong>Hyunjun Choi</strong>*,Taehyun Hwang*,Min-hwan Oh
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2608.15848
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # image: ./assets/img/teaser_example.png
+    # notes: Oral Presentation
+
+- title: "True Impact of Cascade Length in Contextual Cascading Bandits"
+    authors: <strong>Hyunjun Choi</strong>*,Joongkyu Lee,Min-hwan Oh
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2025/hash/7c68f26cecf67f0b76fed25a702ddd94-Abstract-Conference.html
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # image: ./assets/img/teaser_example.png
+    # notes: Oral Presentation
+
+- title: "Cascading contextual assortment bandits"
+    authors: <strong>Hyunjun Choi</strong>*,Rajan Udwani,Min-hwan Oh
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/49528141137087b8e94126d5f50b22da-Abstract-Conference.html
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # image: ./assets/img/teaser_example.png
+    # notes: Oral Presentation
+    
+    
+    
