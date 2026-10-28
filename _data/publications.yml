@@ -7,7 +7,7 @@ main:
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/topic.pdf
+    image: ./assets/img/topic.png
     # notes: Early Accept
 
   - title: "Block Optimism for Nonstationary Bandits with Latent Linear Dynamics"
@@ -18,7 +18,7 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/block.pdf
+    image: ./assets/img/block.png
     # notes: Oral Presentation
     
   - title: "Generalized Linear Bandits with Memory"
@@ -29,7 +29,7 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/glbm.pdf
+    image: ./assets/img/glbm.png
     # notes: Oral Presentation
 
   - title: "True Impact of Cascade Length in Contextual Cascading Bandits"
@@ -51,7 +51,7 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/cca.pdf
+    image: ./assets/img/cca.png
     # notes: Oral Presentation
     
     
