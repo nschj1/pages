@@ -21,7 +21,7 @@ main:
     # image: ./assets/img/teaser_example.png
     # notes: Oral Presentation
     
-- title: "Generalized Linear Bandits with Memory"
+  - title: "Generalized Linear Bandits with Memory"
     authors: Heesang Ann*, <strong>Hyunjun Choi</strong>*,Taehyun Hwang*,Min-hwan Oh
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
@@ -32,7 +32,7 @@ main:
     # image: ./assets/img/teaser_example.png
     # notes: Oral Presentation
 
-- title: "True Impact of Cascade Length in Contextual Cascading Bandits"
+  - title: "True Impact of Cascade Length in Contextual Cascading Bandits"
     authors: <strong>Hyunjun Choi</strong>*,Joongkyu Lee,Min-hwan Oh
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
@@ -43,7 +43,7 @@ main:
     # image: ./assets/img/teaser_example.png
     # notes: Oral Presentation
 
-- title: "Cascading contextual assortment bandits"
+  - title: "Cascading contextual assortment bandits"
     authors: <strong>Hyunjun Choi</strong>*,Rajan Udwani,Min-hwan Oh
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
