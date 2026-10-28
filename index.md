@@ -9,7 +9,7 @@ Hyun-jun Choi is a Ph.D. candidate at the Graduate School of Data Science, Seoul
 ## Research Interests
 
 - **Online Learning:** contextual bandits, combinatorial bandits, nonstationary bandits
-- **Recommendation and Optimization:** online learning to rank, choice modeling, assortment optimization
+- **Recommendation and Optimization:** choice modeling, assortment optimization
 
 ## News
 
