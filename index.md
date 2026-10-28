@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hyun-jun Choi is a Ph.D. candidate at the Graduate School of Data Science, Seoul National University, under the supervision of Prof. [Min-hwan Oh](https://minoh.io/). He received his M.S. in Data Science and his B.S. in Business Administration from Seoul National University.
 
 ## Research Interests
 
